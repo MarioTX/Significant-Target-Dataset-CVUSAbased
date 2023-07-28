@@ -1,7 +1,7 @@
 # Significant-target-dataset-CVUSAbased
 这是一个基于CVUSA数据集筛选的显著目标数据集，collected by TianxingChen
 
-这个数据集共有5,126张数据（仅全景图，从CVUSA44,518张数据中筛选）
+这个数据集共有5,125张数据（仅全景图，从CVUSA44,518张数据中筛选）
 
 ## 筛选标准描述
 1. 将显著目标定义为房屋
